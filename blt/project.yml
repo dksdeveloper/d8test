@@ -1,7 +1,7 @@
 project:
   machine_name: devd8test
   prefix: BLT
-  human_name: 'BLTed 8'
+  human_name: 'BLTed 8 Custom Drupal Project'
   profile:
     name: lightning
   local:
